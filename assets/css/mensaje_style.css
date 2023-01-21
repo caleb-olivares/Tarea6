@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url(../img/exito.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@font-face {
+    font-family: 'good_brush';
+    src: url('../fuentes/good_brush/Good\ Brush.otf');
+}
+
+h1{
+    font-family: good_brush;
+    font-size: 3rem;
+    color: rgb(224, 180, 3);
+}

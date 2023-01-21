@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color:cornsilk;
+    background-size: cover;
+}
+
+@font-face {
+    font-family: 'belgium_victory';
+    src: url('../fuentes/belgium_victory/Belgium\ Victory.otf');
+}
+
+@font-face {
+    font-family: 'alien-encounters';
+    src: url('../fuentes/alien_encounters/Alien-Encounters-Bold-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'technology_2';
+    src: url('../fuentes/technology_2/Technology-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'birds_of_paradise';
+    src: url('../fuentes/birds_of_paradise/Birds\ of\ Paradise\ ©\ PERSONAL\ USE\ ONLY.ttf');
+}
+
+p{
+    /*font-family: birds_of_paradise;*/
+    font-size: 2rem;
+    font-weight: 100;
+    color:darkblue;
+}
+
+table{
+    text-align: center;
+    width: 100%;
+}
+
+thead{
+    /*font-family: belgium_victory;*/
+    font-size: 2rem;
+    color:darkred;
+}
+
+/*
+table, tr, td{
+    border-spacing: 0;
+    border-collapse: collapse;
+    border: solid black 2px;
+}
+*/
